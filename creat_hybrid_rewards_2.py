@@ -1,0 +1,1 @@
+path  = "batch_data/GridNavi-v2/data_bamdp/goal_0.0_3.0"
